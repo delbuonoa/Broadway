@@ -1,0 +1,41 @@
+/* FULL PAGE */
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+/* HEADER */
+.header-main {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.site-navigation {
+  font-size: 18px;
+  color: white;
+}
+h5 {
+  font-size: 18px;
+  color: white;
+}
+#Header {
+  background-color: black;
+}
+
+/* MAIN BODY */
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-color: black;
+}
