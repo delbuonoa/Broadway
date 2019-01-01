@@ -18,7 +18,7 @@ h5 {
   color: white;
 }
 #Header {
-  background-color: black;
+  background-image: url('../resources/the-flatiron-building.png');
 }
 
 /* MAIN BODY */
@@ -37,5 +37,12 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-color: black;
+  background-image: url('../resources/the-flatiron-building.png');
+}
+
+#Footer {
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+  font-size: 11px;
 }
